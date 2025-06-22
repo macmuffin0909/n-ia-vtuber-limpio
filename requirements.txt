@@ -1,0 +1,5 @@
+google-generativeai
+requests
+playsound==1.2.2
+python-dotenv
+python-socketio[client]
